@@ -94,7 +94,9 @@ footer p {
         width: 100%;
         margin: 5% 0;
     }
-
+    h1 {
+        font-size: 30px;
+    }
     #block {
         height: 100%;
         margin: 2%;
