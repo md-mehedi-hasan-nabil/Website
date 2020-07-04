@@ -9,7 +9,7 @@ body {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 40px;
     margin: 40px 0;
 }
 
@@ -66,6 +66,10 @@ p {
 
 .row img {
     width: 80%;
+}
+
+#pic {
+    width: 70%;
 }
 
 #block {
